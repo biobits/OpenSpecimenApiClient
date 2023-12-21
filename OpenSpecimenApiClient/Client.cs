@@ -11,7 +11,7 @@ namespace OpenSpecimenApiClient
     [System.CodeDom.Compiler.GeneratedCode("NSwag", "13.20.0.0 (NJsonSchema v10.9.0.0 (Newtonsoft.Json v12.0.0.0))")]
     public partial class Client
     {
-        private string _baseUrl = "https://biobank-test.fit.uke.de/openspecimen";
+        private string _baseUrl = "https://my.openspecimen.net/openspecimen";
         private System.Net.Http.HttpClient _httpClient;
         private System.Lazy<Newtonsoft.Json.JsonSerializerSettings> _settings;
 
